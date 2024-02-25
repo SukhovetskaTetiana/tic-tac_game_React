@@ -1,4 +1,4 @@
-<img src='xo-logo.jpg' alt='logo tic-tac game' alt='Logo by Tic-Tac Game' width='50'/>
+<img src='.public/xo-logo.jpg' alt='logo tic-tac game' alt='Logo by Tic-Tac Game' width='50'/>
 
 ## Tic-Tac Game
 
